@@ -4,6 +4,9 @@ OWNERDOMAIN=nniffle05-del.github.io
 # LevelPlay / ironSource Ads
 ironsrc.com, 693717, DIRECT
 
+# Google AdMob (enchères via LevelPlay)
+google.com, pub-5748244454755768, DIRECT, f08c47fec0942fa0
+
 # Unity Ads (liste du tableau de bord Unity, Monétisation > Paramètres > Organisation, 21/10/2026)
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appads.in, 106246, RESELLER
